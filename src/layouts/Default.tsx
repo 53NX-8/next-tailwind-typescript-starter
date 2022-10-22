@@ -23,7 +23,7 @@ function DefaultLayout({ title, description, children }: DefaultLayoutProps) {
         <footer className="flex justify-center pb-2">
           <span>
             made with ❤️ by{" "}
-            <Link href="/" className="hover:underline">
+            <Link href="https://github.com/53NX-8" className="hover:underline">
               53NX-8
             </Link>
           </span>
